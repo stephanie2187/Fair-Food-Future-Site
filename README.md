@@ -4,7 +4,7 @@
 A personal web app that allow users to learn more about sustainability, food equity, and their relationship. I was inspired by my lack of education on these topics, and wanted to create a clean, simple hub of information for people to learn more about these issues and how they can help.
 
 # Challenges Faced:
-I faced difficulties implementing the backend of the site with Firebase hosting, storage, and authentication due to unfamiliarity with the service. However, I learned a lot of new skills in estalishing the Firebase environment and the cloud through this project. 
+I faced difficulties implementing the carousel in the resources section. I had never implemented a photo carousel before, so I was having difficulties deciding on how to design this feature. After some trial and error, I implemented it by creating a carousel component which takes in data from the form of an array stored in App.jsx. The carousel then keeps track of the current index to display only that photo and setting the rest to a "hidden" state. Also associates the arrow buttons with moving index forward or backwards. 
 
 # Improvements:
 In the future, I'd like to add more interactive components to this site which might help users have an even better understanding of sustainability and equity. For example, I might provide a way for users to calculate their carbon footprint, to convey how their lifestyle has an effect on the environment. 
