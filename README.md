@@ -10,7 +10,7 @@ I faced difficulties implementing the carousel in the resources section. I had n
 In the future, I'd like to add more interactive components to this site which might help users have an even better understanding of sustainability and equity. For example, I might provide a way for users to calculate their carbon footprint, to convey how their lifestyle has an effect on the environment. 
 
 # Built with:
-HTML, CSS, React, JSX, Vite, Netlify.
+HTML, CSS, React, JSX, Framer Motion, Vite, Netlify.
 
 [https://dish-diaries-9d33c.web.app/](https://fair-food-future.netlify.app/)
 
